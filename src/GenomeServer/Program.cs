@@ -19,6 +19,7 @@ namespace GenomeServer
                 .Build();
 
             host.Run();
+
         }
     }
 }
