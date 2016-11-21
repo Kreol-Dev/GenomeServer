@@ -71,7 +71,7 @@ call :ExecuteCmd dotnet restore
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 2. Build and publish
-call :ExecuteCmd dotnet publish "src\MvcCoreVS2017RC\MvcCoreVS2017RC.csproj" --output "%DEPLOYMENT_TEMP%" --configuration Release
+call :ExecuteCmd dotnet publish "src\GenomeServer\GenomeServer.csproj" --output "%DEPLOYMENT_TEMP%" --configuration Release
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 3. KuduSync
