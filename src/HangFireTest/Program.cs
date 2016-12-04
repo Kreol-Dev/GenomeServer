@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
-namespace GenomeServer
+namespace HangFireTest
 {
     public class Program
     {
@@ -19,7 +19,6 @@ namespace GenomeServer
                 .Build();
 
             host.Run();
-
         }
     }
 }
