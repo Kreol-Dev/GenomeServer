@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\bin\Debug\netcoreapp1.0\HangFireTest.dll"
+"C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\bin\Debug\netcoreapp1.0\HangFireTest.dll"
 -r:"C:\Users\Виталий\.nuget\packages\Dapper\1.50.1\lib\netstandard1.3\Dapper.dll"
 -r:"C:\Users\Виталий\.nuget\packages\Hangfire.AspNetCore\1.6.7\lib\netstandard1.3\Hangfire.AspNetCore.dll"
 -r:"C:\Users\Виталий\.nuget\packages\Hangfire.Core\1.6.7\lib\netstandard1.3\Hangfire.Core.dll"
@@ -143,6 +143,6 @@
 -r:"C:\Users\Виталий\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Виталий\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
 -r:"C:\Users\Виталий\.nuget\packages\System.Xml.XmlDocument\4.0.1\ref\netstandard1.3\System.Xml.XmlDocument.dll"
--resource:"C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\obj\Debug\netcoreapp1.0\HangFireTestdotnet-compile.deps.json",HangFireTest.deps.json
-"C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\Program.cs"
-"C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\Startup.cs"
+-resource:"C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\obj\Debug\netcoreapp1.0\HangFireTestdotnet-compile.deps.json",HangFireTest.deps.json
+"C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\Program.cs"
+"C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\Startup.cs"

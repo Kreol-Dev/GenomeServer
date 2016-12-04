@@ -23,7 +23,7 @@ namespace HangFireTest
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
 
-            GlobalConfiguration.Configuration.UseSqlServerStorage("Server=tcp:hangfireserver.database.windows.net,1433;Initial Catalog=HangfireDB;Persist Security Info=False;User ID=chismar@hangfireserver;Password=135798642Kw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=5;");
+            GlobalConfiguration.Configuration.UseSqlServerStorage("Server=tcp:hangfireserver.database.windows.net,1433;Initial Catalog=HangfireDB;Persist Security Info=False;User ID=chismar@hangfireserver;Password=135798642Kw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             
             app.UseHangfireDashboard();
             app.UseHangfireServer();

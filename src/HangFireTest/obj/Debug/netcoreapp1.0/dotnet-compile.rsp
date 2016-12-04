@@ -1,5 +1,5 @@
---temp-output:C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\obj\Debug\netcoreapp1.0\
---out:C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\bin\Debug\netcoreapp1.0\HangFireTest.dll
+--temp-output:C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\bin\Debug\netcoreapp1.0\HangFireTest.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -147,6 +147,6 @@
 --reference:C:\Users\Виталий\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Виталий\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
 --reference:C:\Users\Виталий\.nuget\packages\System.Xml.XmlDocument\4.0.1\ref\netstandard1.3\System.Xml.XmlDocument.dll
---resource:"C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\obj\Debug\netcoreapp1.0\HangFireTestdotnet-compile.deps.json",HangFireTest.deps.json
-C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\Program.cs
-C:\Users\Виталий\Documents\Visual Studio 2015\Projects\HangFireTest\src\HangFireTest\Startup.cs
+--resource:"C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\obj\Debug\netcoreapp1.0\HangFireTestdotnet-compile.deps.json",HangFireTest.deps.json
+C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\Program.cs
+C:\Users\Виталий\Documents\GitHub\GenomeServer\src\HangFireTest\Startup.cs
